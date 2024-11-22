@@ -4477,7 +4477,7 @@ html {
 }
 
 
-.countdown__display-block {
+.count-hunmber {
     display: flex;
     align-items: center;
     gap: 5px;
