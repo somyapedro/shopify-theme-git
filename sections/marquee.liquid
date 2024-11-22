@@ -34,9 +34,9 @@
 <div class="marquee">
   <div>
 
-    
+    {% if section.settings.title1 != blank %}
     <span>{{ section.settings.title1 }} </span>
-      
+      {% endif %}
     <!-- you need the second one - otherwise there is a lot of blank space and it will look odd -->
         {% if section.settings.title2 != blank %}
     <span>{{ section.settings.title2 }} </span>

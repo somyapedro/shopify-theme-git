@@ -891,7 +891,7 @@
       "type": "marquee",
       "custom_css": [],
       "settings": {
-        "title1": "",
+        "title1": "++++ this is a running text aka marquee using html & css + text length is limited to the width",
         "title2": "++++ this is a running text aka marquee using html & css + text length is limited to the width"
       }
     },
