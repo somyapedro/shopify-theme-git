@@ -4470,3 +4470,12 @@ html {
 }
 
 
+@media screen and (max-width:1199px) {
+
+.card-section {
+    display: grid!important;
+    gap: 6px;
+    grid-template-columns: 1fr 1fr;
+}
+  
+}
