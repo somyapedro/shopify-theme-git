@@ -889,6 +889,7 @@
     },
     "marquee_ikkbJP": {
       "type": "marquee",
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "title1": "++++ this is a running text aka marquee using html & css + text length is limited to the width",
@@ -990,10 +991,12 @@
         "table_right_TKQc43",
         "table_right_iUYENh"
       ],
+      "disabled": true,
       "settings": {}
     },
     "countdown_timer_DDiQEN": {
       "type": "Countdown-timer",
+      "disabled": true,
       "settings": {
         "countdown_enable": true,
         "year": "2024",
