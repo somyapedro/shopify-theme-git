@@ -4473,5 +4473,12 @@ html {
 .countdown__display.countdown__display--visible {
     display: flex;
     justify-content: center;
-    gap: 10px;
+    gap:5px;
+}
+
+
+.countdown__display-block {
+    display: flex;
+    align-items: center;
+    gap: 5px;
 }
