@@ -278,7 +278,7 @@
         "column_bdihH8"
       ],
       "custom_css": [
-        "*{color:#000;}"
+        "* {color: #000;}"
       ],
       "settings": {
         "title": "",
@@ -886,6 +886,27 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "compare_table_9NXfkQ": {
+      "type": "compare-table",
+      "blocks": {
+        "table_left_pPbMac": {
+          "type": "table-left",
+          "settings": {
+            "title1": "Dav1",
+            "title2": "Dav2",
+            "title3": "Dav3",
+            "title4": "Dav4",
+            "title5": "Dav5",
+            "title6": "Dav6",
+            "title7": "Dav7"
+          }
+        }
+      },
+      "block_order": [
+        "table_left_pPbMac"
+      ],
+      "settings": {}
     }
   },
   "order": [
@@ -907,6 +928,7 @@
     "rich_text_kKhGg7",
     "multicolumn_XG3Uc9",
     "slideshow_rftBFf",
-    "custom_liquid_z6LV4W"
+    "custom_liquid_z6LV4W",
+    "compare_table_9NXfkQ"
   ]
 }
