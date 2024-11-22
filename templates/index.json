@@ -887,6 +887,11 @@
         "padding_bottom": 52
       }
     },
+    "marquee_ikkbJP": {
+      "type": "marquee",
+      "custom_css": [],
+      "settings": {}
+    },
     "compare_table_9NXfkQ": {
       "type": "compare-table",
       "blocks": {
@@ -983,10 +988,6 @@
         "table_right_iUYENh"
       ],
       "settings": {}
-    },
-    "marquee_ikkbJP": {
-      "type": "marquee",
-      "settings": {}
     }
   },
   "order": [
@@ -1009,7 +1010,7 @@
     "multicolumn_XG3Uc9",
     "slideshow_rftBFf",
     "custom_liquid_z6LV4W",
-    "compare_table_9NXfkQ",
-    "marquee_ikkbJP"
+    "marquee_ikkbJP",
+    "compare_table_9NXfkQ"
   ]
 }
