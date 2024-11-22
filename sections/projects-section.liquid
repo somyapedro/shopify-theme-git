@@ -1,0 +1,131 @@
+<!-- Start projects-section  -->
+
+{%- style -%}
+  .section-{{ section.id }}-padding {
+    padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
+    padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-{{ section.id }}-padding {
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+  }
+{%- endstyle -%}
+
+
+
+
+<div class="project-part section-{{ section.id }}-padding">
+<div class="page-width">
+
+  <div class="project-top">
+<h2 class="h1">{{ section.settings.heading }}</h2>
+  {{ section.settings.content }}
+  </div>
+  
+
+<div class="project-content">
+{%- for block in section.blocks -%}
+
+<div class="project-block-top"> 
+ 
+{% if block.settings.image != blank %}
+<img src="{{ block.settings.image | image_url:width:auto }}">
+{% endif %}  
+
+<div class="project-text">
+
+  <h3>{{ block.settings.title }}</h3>
+  {{ block.settings.text }}
+  {% if block.settings.button_label != blank %}
+  <a href="{{ block.settings.button_link }}" class="qut-button">{{ block.settings.button_label }}</a>
+    {% endif %}
+</div>
+  
+</div>
+
+{% endfor %}
+</div>
+
+</div>
+
+</div>
+<!-- End projects-section  -->
+{% schema %}
+  {
+    "name": "Projects Section",
+    "class":"project-main",
+    "settings": [
+      {
+        "type": "inline_richtext",
+        "id":"heading",
+        "label":"Heading"
+      },
+      {
+        "type": "richtext",
+        "id":"content",
+        "label":"content"
+      },
+      {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_top",
+      "default": 36
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_bottom",
+      "default": 36
+    }
+    ],
+    "blocks": [
+      {
+        "type": "project",
+        "name":"Block",
+        "settings": [
+      {
+        "type": "image_picker",
+        "id":"image",
+        "label":"Image"
+      },
+      {
+        "type": "inline_richtext",
+        "id":"title",
+        "label":"Title"
+      },
+      {
+        "type": "richtext",
+        "id":"text",
+        "label":"Description"
+      },
+        {
+        "type": "text",
+        "id":"button_label",
+        "label":"Button Label"
+      },
+      {
+        "type": "url",
+        "id":"button_link",
+        "label":"Button Link"
+      }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Projects Section"
+      }
+    ]
+  }
+{% endschema %}

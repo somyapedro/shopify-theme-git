@@ -1,0 +1,363 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "content_image_JWRfPm": {
+      "type": "content-image",
+      "settings": {
+        "image": "shopify://shop_images/shopify_plus_banner_graphic_1.svg",
+        "sub-heading": "Top-rated Shopify Plus Development Company",
+        "heading": "Ence with the Advanced Shopify Plus Development Services in India",
+        "content": "<p>At Webgarh, we are renowned for our expertise in Shopify Plus development, providing top-tier Shopify Plus Development services globally. Our dedicated team of Shopify Plus developers excels in creating online stores that not only look eye-catching but also drive significant e-commerce traffic and conversions.</p><p>We are recognized for our holistic approach to Shopify Plus store development in India. If you're considering enhancing your online presence with Shopify Plus, we possess the expertise and dedication to bring your vision to life, delivering exceptional results.</p>",
+        "button_label": "Hire shopify plus experts",
+        "button_link": "#",
+        "background": "linear-gradient(90deg, rgba(41, 89, 86, 0.96) 0.2%, rgba(252, 138, 2, 0.96) 99.8%)",
+        "color": "#000000",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_CX7Rim": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_kCEzEK": {
+          "type": "caption",
+          "settings": {
+            "caption": "Ulock Limitless Commerce: Embrace Shopify Plus.",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "small"
+          }
+        },
+        "heading_azGTwP": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wat is Shopify Plus?",
+            "heading_size": "h1"
+          }
+        },
+        "text_BqNRXf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Shopify Plus is the premium tier of Shopify designed for high-volume stores and large-scale businesses. It is an advanced eCommerce solution that supports a higher level of customization, offers unparalleled scalability, and provides access to exclusive features.</p><p>With Shopify Plus, businesses can automate complex processes, seamlessly integrate with other systems, and offer their customers a high-end shopping experience. If you want to know more about it?<a href=\"https://reflect.webgarh.com/a-complete-guide-to-shopify-plus-exploring-the-key-features/\">Here is a complete guide for Shopify Plus</a>.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "caption_kCEzEK",
+        "heading_azGTwP",
+        "text_BqNRXf"
+      ],
+      "settings": {
+        "main-heading": "",
+        "image": "shopify://shop_images/shopify_market_shape.svg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "custom-class": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_wnTnct": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_pjQj3J": {
+          "type": "caption",
+          "settings": {
+            "caption": "Coose Shopify Plus to Ignite Your Path to Success.",
+            "text_style": "subtitle",
+            "text_size": "medium"
+          }
+        },
+        "heading_jzT9X3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wy choose Shopify Plus?",
+            "heading_size": "h1"
+          }
+        },
+        "text_Fj6kqw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Shopify Plus is ideal for businesses that have outgrown the capabilities of standard Shopify plans. It can handle increased sales volumes without compromising performance, offers priority customer support, and provides detailed analytics to help you make informed decisions. Additionally, with advanced security features, it ensures that your store and customer data are well-protected.</p><p>Enhanced Performance and Scalability: Shopify Plus is designed to handle high-volume traffic and sales, making it an ideal platform for rapidly growing businesses or those with large transaction volumes.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "caption_pjQj3J",
+        "heading_jzT9X3",
+        "text_Fj6kqw"
+      ],
+      "settings": {
+        "main-heading": "",
+        "image": "shopify://shop_images/shopify_market_pro_graphic.svg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "custom-class": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "projects_section_fBFEbP": {
+      "type": "projects-section",
+      "blocks": {
+        "project_RtkT3f": {
+          "type": "project",
+          "settings": {
+            "image": "shopify://shop_images/Web_1920_10.jpg",
+            "title": "<strong>Free Website Audit</strong>",
+            "text": "<p>Our team developed a tailored Shopify app utilizing the Subscription API to enable a unique \"TRY BEFORE YOU BUY\" selling plan. Integrated seamlessly into the client store's theme.</p>",
+            "button_label": "View  Project",
+            "button_link": "https://cmbt.com.au/"
+          }
+        },
+        "project_j74KLp": {
+          "type": "project",
+          "settings": {
+            "image": "shopify://shop_images/Web_1920_6.jpg",
+            "title": "<strong>Free Website Audit</strong>",
+            "text": "<p>Our team developed a tailored Shopify app utilizing the Subscription API to enable a unique \"TRY BEFORE YOU BUY\" selling plan. Integrated seamlessly into the client store's theme.</p>",
+            "button_label": "View  Project",
+            "button_link": "https://wearsoftwear.com/"
+          }
+        },
+        "project_7AqGUH": {
+          "type": "project",
+          "settings": {
+            "image": "shopify://shop_images/Web_1920_4.jpg",
+            "title": "<strong>Free Website Audit</strong>",
+            "text": "<p>Our team developed a tailored Shopify app utilizing the Subscription API to enable a unique \"TRY BEFORE YOU BUY\" selling plan. Integrated seamlessly into the client store's theme.</p>",
+            "button_label": "View  Project",
+            "button_link": "https://nerdbugs.com/"
+          }
+        },
+        "project_TAG6VL": {
+          "type": "project",
+          "settings": {
+            "image": "shopify://shop_images/Web_1920_9.jpg",
+            "title": "<strong>Free Website Audit</strong>",
+            "text": "<p>Our team developed a tailored Shopify app utilizing the Subscription API to enable a unique \"TRY BEFORE YOU BUY\" selling plan. Integrated seamlessly into the client store's theme.</p>",
+            "button_label": "View  Project",
+            "button_link": "https://dreampops.com/"
+          }
+        },
+        "project_mwXm8C": {
+          "type": "project",
+          "settings": {
+            "image": "shopify://shop_images/Web_1920_8.jpg",
+            "title": "<strong>Free Website Audit</strong>",
+            "text": "<p>Our team developed a tailored Shopify app utilizing the Subscription API to enable a unique \"TRY BEFORE YOU BUY\" selling plan. Integrated seamlessly into the client store's theme.</p>",
+            "button_label": "View  Project",
+            "button_link": "https://eatmezcla.com/"
+          }
+        },
+        "project_mckyD7": {
+          "type": "project",
+          "settings": {
+            "image": "shopify://shop_images/Web_1920_7.jpg",
+            "title": "<strong>Free Website Audit</strong>",
+            "text": "<p>Our team developed a tailored Shopify app utilizing the Subscription API to enable a unique \"TRY BEFORE YOU BUY\" selling plan. Integrated seamlessly into the client store's theme.</p>",
+            "button_label": "View  Project",
+            "button_link": "https://www.dhudsongolfwear.com/"
+          }
+        },
+        "project_HtwNr4": {
+          "type": "project",
+          "settings": {
+            "image": "shopify://shop_images/Web_1920_3.jpg",
+            "title": "<strong>Free Website Audit</strong>",
+            "text": "<p>Our team developed a tailored Shopify app utilizing the Subscription API to enable a unique \"TRY BEFORE YOU BUY\" selling plan. Integrated seamlessly into the client store's theme.</p>",
+            "button_label": "View  Project",
+            "button_link": "https://thetoothpixie.com/"
+          }
+        },
+        "project_iy6XL4": {
+          "type": "project",
+          "settings": {
+            "image": "shopify://shop_images/Web_1920_5.jpg",
+            "title": "<strong>Free Website Audit</strong>",
+            "text": "<p>Our team developed a tailored Shopify app utilizing the Subscription API to enable a unique \"TRY BEFORE YOU BUY\" selling plan. Integrated seamlessly into the client store's theme.</p>",
+            "button_label": "View  Project",
+            "button_link": "#"
+          }
+        },
+        "project_PRcFif": {
+          "type": "project",
+          "settings": {
+            "image": "shopify://shop_images/Web_1920_2.jpg",
+            "title": "<strong>Free Website Audit</strong>",
+            "text": "<p>Our team developed a tailored Shopify app utilizing the Subscription API to enable a unique \"TRY BEFORE YOU BUY\" selling plan. Integrated seamlessly into the client store's theme.</p>",
+            "button_label": "View  Project",
+            "button_link": "https://thestrivegroup.com.au/"
+          }
+        },
+        "project_9qmDbh": {
+          "type": "project",
+          "settings": {
+            "image": "shopify://shop_images/Web_1920_11.jpg",
+            "title": "<strong>Free Website Audit</strong>",
+            "text": "<p>Our team developed a tailored Shopify app utilizing the Subscription API to enable a unique \"TRY BEFORE YOU BUY\" selling plan. Integrated seamlessly into the client store's theme.</p>",
+            "button_label": "View  Project",
+            "button_link": "https://myafricacaribbean.com/"
+          }
+        },
+        "project_kjjXqN": {
+          "type": "project",
+          "settings": {
+            "image": "shopify://shop_images/Web_1920_12.jpg",
+            "title": "<strong>Free Website Audit</strong>",
+            "text": "<p>Our team developed a tailored Shopify app utilizing the Subscription API to enable a unique \"TRY BEFORE YOU BUY\" selling plan. Integrated seamlessly into the client store's theme.</p>",
+            "button_label": "View  Project",
+            "button_link": "https://manufactoryapparel.com/"
+          }
+        },
+        "project_jcw9ac": {
+          "type": "project",
+          "settings": {
+            "image": "shopify://shop_images/Web_1920_13.jpg",
+            "title": "<strong>Free Website Audit</strong>",
+            "text": "<p>Our team developed a tailored Shopify app utilizing the Subscription API to enable a unique \"TRY BEFORE YOU BUY\" selling plan. Integrated seamlessly into the client store's theme.</p>",
+            "button_label": "View  Project",
+            "button_link": "https://wethewild.co/"
+          }
+        },
+        "project_ax8ep8": {
+          "type": "project",
+          "settings": {
+            "image": "shopify://shop_images/Web_1920_14.jpg",
+            "title": "<strong>Free Website Audit</strong>",
+            "text": "<p>Our team developed a tailored Shopify app utilizing the Subscription API to enable a unique \"TRY BEFORE YOU BUY\" selling plan. Integrated seamlessly into the client store's theme.</p>",
+            "button_label": "View  Project",
+            "button_link": "https://wethewild.co/"
+          }
+        },
+        "project_hizEUW": {
+          "type": "project",
+          "settings": {
+            "image": "shopify://shop_images/Web_1920_15.jpg",
+            "title": "<strong>Free Website Audit</strong>",
+            "text": "<p>Our team developed a tailored Shopify app utilizing the Subscription API to enable a unique \"TRY BEFORE YOU BUY\" selling plan. Integrated seamlessly into the client store's theme.</p>",
+            "button_label": "View  Project",
+            "button_link": "https://wethewild.co/"
+          }
+        },
+        "project_TK9Nm7": {
+          "type": "project",
+          "settings": {
+            "image": "shopify://shop_images/Web_1920_16.jpg",
+            "title": "<strong>Free Website Audit</strong>",
+            "text": "<p>Our team developed a tailored Shopify app utilizing the Subscription API to enable a unique \"TRY BEFORE YOU BUY\" selling plan. Integrated seamlessly into the client store's theme.</p>",
+            "button_label": "View  Project",
+            "button_link": "https://www.learnwithmissb.com.au/"
+          }
+        },
+        "project_UtnHk7": {
+          "type": "project",
+          "settings": {
+            "image": "shopify://shop_images/Web_1920_17.jpg",
+            "title": "<strong>Free Website Audit</strong>",
+            "text": "<p>Our team developed a tailored Shopify app utilizing the Subscription API to enable a unique \"TRY BEFORE YOU BUY\" selling plan. Integrated seamlessly into the client store's theme.</p>",
+            "button_label": "View  Project",
+            "button_link": "https://ventyfan.com/"
+          }
+        },
+        "project_gp6EUH": {
+          "type": "project",
+          "settings": {
+            "image": "shopify://shop_images/Web_1920_18.jpg",
+            "title": "<strong>Free Website Audit</strong>",
+            "text": "<p>Our team developed a tailored Shopify app utilizing the Subscription API to enable a unique \"TRY BEFORE YOU BUY\" selling plan. Integrated seamlessly into the client store's theme.</p>",
+            "button_label": "View  Project",
+            "button_link": "https://ventyfan.com/"
+          }
+        },
+        "project_jtgHke": {
+          "type": "project",
+          "settings": {
+            "image": "shopify://shop_images/Web_1920_19.jpg",
+            "title": "<strong>Free Website Audit</strong>",
+            "text": "<p>Our team developed a tailored Shopify app utilizing the Subscription API to enable a unique \"TRY BEFORE YOU BUY\" selling plan. Integrated seamlessly into the client store's theme.</p>",
+            "button_label": "View  Project",
+            "button_link": "https://ventyfan.com/"
+          }
+        },
+        "project_mndF9t": {
+          "type": "project",
+          "settings": {
+            "image": "shopify://shop_images/Web_1920_20.jpg",
+            "title": "<strong>Free Website Audit</strong>",
+            "text": "<p>Our team developed a tailored Shopify app utilizing the Subscription API to enable a unique \"TRY BEFORE YOU BUY\" selling plan. Integrated seamlessly into the client store's theme.</p>",
+            "button_label": "View  Project",
+            "button_link": "https://ventyfan.com/"
+          }
+        }
+      },
+      "block_order": [
+        "project_RtkT3f",
+        "project_j74KLp",
+        "project_7AqGUH",
+        "project_TAG6VL",
+        "project_mwXm8C",
+        "project_mckyD7",
+        "project_HtwNr4",
+        "project_iy6XL4",
+        "project_PRcFif",
+        "project_9qmDbh",
+        "project_kjjXqN",
+        "project_jcw9ac",
+        "project_ax8ep8",
+        "project_hizEUW",
+        "project_TK9Nm7",
+        "project_UtnHk7",
+        "project_gp6EUH",
+        "project_jtgHke",
+        "project_mndF9t"
+      ],
+      "settings": {
+        "heading": "OR Portfolio",
+        "content": "<p>The key to our success lies in our unwavering dedication to meeting our clients' needs. Explore our top Shopify Plus projects, which exemplify our outstanding work in the digital realm.</p>",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "content_image_JWRfPm",
+    "image_with_text_CX7Rim",
+    "image_with_text_wnTnct",
+    "projects_section_fBFEbP"
+  ]
+}

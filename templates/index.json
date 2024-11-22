@@ -1,0 +1,909 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_with_text_9MVnC9": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_6f6Wbb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hire Shopify Experts. Development Services",
+            "heading_size": "h1"
+          }
+        },
+        "text_JJdPUm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Shopify Experts Agency : Shopify design, development and performance agency.</p>",
+            "text_style": "subtitle"
+          }
+        },
+        "button_JzAFXR": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "See Plans",
+            "button_link": "#",
+            "button_label2": "About Mandasa",
+            "button_link1": "#",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_6f6Wbb",
+        "text_JJdPUm",
+        "button_JzAFXR"
+      ],
+      "custom_css": [],
+      "settings": {
+        "main-heading": "",
+        "image": "shopify://shop_images/illustration-20.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "custom-class": "banner-image",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "content_animation_jJUiHt": {
+      "type": "content-animation",
+      "settings": {
+        "title": "We serve as world-class",
+        "content": "<p>on demand, We design, build, market and manage your <br/>eCommerce Shopify store in the most efficient way.</p>",
+        "background": "#242833",
+        "color": "#ffffff",
+        "animation-text": "#95bf47",
+        "padding_top": 32,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_gX4FF6": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_iGH8y3": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Shopify App Development</strong>",
+            "heading_size": "h0"
+          }
+        },
+        "text_7FHB8i": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our experienced Shopify developers will either create a new Shopify app or modify an existing one to enable you to take advantage of multiple functionalities through a single app. Our primary objective is to deliver satisfactory results to our clients while maintaining a high level of quality.</p><ul><li>Dedicated Team of Shopify App Developers</li><li>Transparent Project management</li><li>On-time Delivery</li><li>24/7 Support</li></ul>",
+            "text_style": "subtitle"
+          }
+        },
+        "button_d8GBVC": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read More",
+            "button_link": "#",
+            "button_label2": "",
+            "button_link1": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_iGH8y3",
+        "text_7FHB8i",
+        "button_d8GBVC"
+      ],
+      "disabled": true,
+      "settings": {
+        "main-heading": "<strong>Top Services</strong>",
+        "image": "shopify://shop_images/ShopifyAppDevelopment-removebg-preview.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "custom-class": "services-top",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "logo_slider_HVpYxV": {
+      "type": "logo-slider",
+      "blocks": {
+        "logo_fMp4JA": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Copy_of_Copy_of_kay_by_the_beach_3000_x_2000_px.png",
+            "logo-link": ""
+          }
+        },
+        "logo_KXnP3e": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/ofpp-logo-v2_1b-bg_2.png",
+            "logo-link": ""
+          }
+        },
+        "logo_ty87UE": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/theMagicBrand_logo_wide_Black_7e07c80b-3287-4f42-ad61-0efeb58c8a1a.png",
+            "logo-link": ""
+          }
+        },
+        "logo_3dpk9t": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Frame_1_200x_ecaa2ab2-8da3-470e-8c0e-e0e9590dd575.png",
+            "logo-link": ""
+          }
+        },
+        "logo_q6Mx3g": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/cococino-shopify-logo-transparent_270x_f0c68453-6c25-4d22-a828-af41629770ae.png",
+            "logo-link": ""
+          }
+        },
+        "logo_M3xHQM": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/ofpp-logo-v2_1b-bg_2.png",
+            "logo-link": ""
+          }
+        },
+        "logo_FqBCWC": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Copy_of_Copy_of_kay_by_the_beach_3000_x_2000_px.png",
+            "logo-link": ""
+          }
+        },
+        "logo_a7aEFy": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/cococino-shopify-logo-transparent_270x_f0c68453-6c25-4d22-a828-af41629770ae.png",
+            "logo-link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_fMp4JA",
+        "logo_KXnP3e",
+        "logo_ty87UE",
+        "logo_3dpk9t",
+        "logo_q6Mx3g",
+        "logo_M3xHQM",
+        "logo_FqBCWC",
+        "logo_a7aEFy"
+      ],
+      "settings": {
+        "heading": "<strong>We’ve been helping incredible brands grow:</strong>",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_aHgbJ8": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MpnhEW": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>What We Do</strong>",
+            "heading_size": "hxxl"
+          }
+        },
+        "text_DizHzd": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>We create web and mobile app solutions that will delight your customers </strong></h3><p>At WebGarh Solutions, our team is dedicated to building and designing brands through web and mobile app development. We collaborate closely with our clients to develop a detailed plan for creating their website or mobile app, ensuring that we deliver the desired outcomes they are looking for.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MpnhEW",
+        "text_DizHzd"
+      ],
+      "custom_css": [
+        "h3 {color: #fc8a03; font-size: 24px;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_D3cRFk": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_kyqGi8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/3.png",
+            "image_link": "",
+            "title": "<strong>Shopify Expertise</strong>",
+            "text": "<p>Shopify Store Development</p><p>Shopify Apps Development</p><p>Shopify Migration</p><p>Dropshipping Store Development</p>",
+            "link_label": "Read More",
+            "link": "#"
+          }
+        },
+        "column_cwF3p7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1.png",
+            "image_link": "",
+            "title": "<strong>eCommerce</strong>",
+            "text": "<p>PrestaShop Solution</p><p>Magento Solution</p><p>CMS based Solutions</p><p>WooCommerce Solution</p><p>Ecommerce Maintenance & Support</p>",
+            "link_label": "Read More",
+            "link": "#"
+          }
+        },
+        "column_bdihH8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/2.png",
+            "image_link": "",
+            "title": "<strong>Product Development</strong>",
+            "text": "<p>Saas Web applications</p><p>Business Applications</p><p>Mobile Apps</p><p>Marketing & SEO</p>",
+            "link_label": "Read More",
+            "link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "column_kyqGi8",
+        "column_cwF3p7",
+        "column_bdihH8"
+      ],
+      "settings": {
+        "title": "",
+        "custom-class": "multi_x",
+        "heading_size": "h0",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "#",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_84j3rN": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gj6i39": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Explore your store's possibilities:</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_TGfVnw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We provide our customers with a range of <strong>Shopify</strong> services, including the following:</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gj6i39",
+        "text_TGfVnw"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_RjFKqa": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_NbWKFT": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>            Top-notch Shopify development       </strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_9crh9N": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our Shopify experts have an extensive knowledge of the Shopify environment and have tackled the most ambitious projects. By choosing us, you'll have a vast amount of experience at your disposal.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_aE7iC4": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get Started",
+            "button_link": "#",
+            "button_label2": "",
+            "button_link1": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_NbWKFT",
+        "text_9crh9N",
+        "button_aE7iC4"
+      ],
+      "settings": {
+        "main-heading": "",
+        "image": "shopify://shop_images/Shopioso-ToDev-2.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "custom-class": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "review_Nzyimz": {
+      "type": "review",
+      "blocks": {
+        "section_E9mfFB": {
+          "type": "section",
+          "settings": {
+            "title-1": "WORLDTIMER",
+            "title-2": "Shopify CRO",
+            "content": "<p>We would say their prices were greater than others, but they were professional enough to take care of our projects.</p>"
+          }
+        },
+        "section_hYnNrw": {
+          "type": "section",
+          "settings": {
+            "title-1": "WORLDTIMER",
+            "title-2": "Shopify CRO",
+            "content": "<p>We would say their prices were greater than others, but they were professional enough to take care of our projects.</p>"
+          }
+        },
+        "section_JXCTCt": {
+          "type": "section",
+          "settings": {
+            "title-1": "WORLDTIMER",
+            "title-2": "Shopify CRO",
+            "content": "<p>We would say their prices were greater than others, but they were professional enough to take care of our projects.</p>"
+          }
+        },
+        "section_qKWbPy": {
+          "type": "section",
+          "settings": {
+            "title-1": "WORLDTIMER",
+            "title-2": "Shopify CRO",
+            "content": "<p>We would say their prices were greater than others, but they were professional enough to take care of our projects.</p>"
+          }
+        },
+        "section_L8GDrT": {
+          "type": "section",
+          "settings": {
+            "title-1": "WORLDTIMER",
+            "title-2": "Shopify CRO",
+            "content": "<p>We would say their prices were greater than others, but they were professional enough to take care of our projects.</p>"
+          }
+        },
+        "section_jpKEbE": {
+          "type": "section",
+          "settings": {
+            "title-1": "WORLDTIMER",
+            "title-2": "Shopify CRO",
+            "content": "<p>We would say their prices were greater than others, but they were professional enough to take care of our projects.</p>"
+          }
+        },
+        "section_GpdV6N": {
+          "type": "section",
+          "settings": {
+            "title-1": "WORLDTIMER",
+            "title-2": "Shopify CRO",
+            "content": "<p>We would say their prices were greater than others, but they were professional enough to take care of our projects.</p>"
+          }
+        },
+        "section_a3Bibb": {
+          "type": "section",
+          "settings": {
+            "title-1": "WORLDTIMER",
+            "title-2": "Shopify CRO",
+            "content": "<p>We would say their prices were greater than others, but they were professional enough to take care of our projects.</p>"
+          }
+        },
+        "section_qn73TN": {
+          "type": "section",
+          "settings": {
+            "title-1": "WORLDTIMER",
+            "title-2": "Shopify CRO",
+            "content": "<p>We would say their prices were greater than others, but they were professional enough to take care of our projects.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "section_E9mfFB",
+        "section_hYnNrw",
+        "section_JXCTCt",
+        "section_qKWbPy",
+        "section_L8GDrT",
+        "section_jpKEbE",
+        "section_GpdV6N",
+        "section_a3Bibb",
+        "section_qn73TN"
+      ],
+      "settings": {
+        "sub-heading": "Client Testimonial",
+        "heading": "Customer feedback",
+        "background": "#000000",
+        "color": "#ffffff",
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "custom_liquid_VeVCh8": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<div class=\"customer-min\">\n        <div class=\"\">\n            <div class=\"customer-title\">\n                <p> <span>o</span>Client Testimonial</p>\n                <h2 class=\"h1\">Customer feedback</h2>\n            </div>\n            <div class=\"customer-slider customer-slider-min\">\n                <div class=\"customer-items\">\n                    <div class=\"customer-items-text\">\n                        <div class=\"customer-items-left\">\n                            <h4>WORLDTIMER</h4>\n                            <p>Shopify CRO</p>\n                        </div>\n                        <div class=\"customer-items-right\">\n                            <span style=\"display: flex; width: 130px;height: auto;gap:3px;\">\n                                <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"3 3 18 18\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z\" fill:#000;=\"\"></path></svg>\n                               \n                                <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"3 3 18 18\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z\"></path></svg>\n                               \n                                <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"3 3 18 18\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z\"></path></svg>\n                               \n                                <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"3 3 18 18\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z\"></path></svg>\n                               \n                                \n                                <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"3 3 18 18\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z\"></path></svg>\n                               \n                               </span>\n                        </div>\n                    </div>\n                    <p>We would say their prices were greater than others, but they were professional enough to take care of our projects.</p>\n                </div>\n                <div class=\"customer-items\">\n                    <div class=\"customer-items-text\">\n                        <div class=\"customer-items-left\">\n                            <h4>WORLDTIMER</h4>\n                            <p>Shopify CRO</p>\n                        </div>\n                        <div class=\"customer-items-right\">\n                            <span style=\"display: flex; width: 130px;height: auto;gap:3px;\">\n                                <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"3 3 18 18\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z\" fill:#000;=\"\"></path></svg>\n                               \n                                <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"3 3 18 18\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z\"></path></svg>\n                               \n                                <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"3 3 18 18\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z\"></path></svg>\n                               \n                                <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"3 3 18 18\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z\"></path></svg>\n                               \n                                \n                                <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"3 3 18 18\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z\"></path></svg>\n                               \n                               </span>\n                        </div>\n                    </div>\n                    <p>We would say their prices were greater than others, but they were professional enough to take care of our projects.</p>\n                </div>\n                <div class=\"customer-items\">\n                    <div class=\"customer-items-text\">\n                        <div class=\"customer-items-left\">\n                            <h4>WORLDTIMER</h4>\n                            <p>Shopify CRO</p>\n                        </div>\n                        <div class=\"customer-items-right\">\n                            <span style=\"display: flex; width: 130px;height: auto;gap:3px;\">\n                                <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"3 3 18 18\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z\" fill:#000;=\"\"></path></svg>\n                               \n                                <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"3 3 18 18\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z\"></path></svg>\n                               \n                                <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"3 3 18 18\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z\"></path></svg>\n                               \n                                <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"3 3 18 18\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z\"></path></svg>\n                               \n                                \n                                <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"3 3 18 18\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z\"></path></svg>\n                               \n                               </span>\n                        </div>\n                    </div>\n                    <p>We would say their prices were greater than others, but they were professional enough to take care of our projects.</p>\n                </div>\n                <div class=\"customer-items\">\n                    <div class=\"customer-items-text\">\n                        <div class=\"customer-items-left\">\n                            <h4>WORLDTIMER</h4>\n                            <p>Shopify CRO</p>\n                        </div>\n                        <div class=\"customer-items-right\">\n                            <span style=\"display: flex; width: 130px;height: auto;gap:3px;\">\n                                <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"3 3 18 18\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z\" fill:#000;=\"\"></path></svg>\n                               \n                                <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"3 3 18 18\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z\"></path></svg>\n                               \n                                <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"3 3 18 18\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z\"></path></svg>\n                               \n                                <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"3 3 18 18\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z\"></path></svg>\n                               \n                                \n                                <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"3 3 18 18\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z\"></path></svg>\n                               \n                               </span>\n                        </div>\n                    </div>\n                    <p>We would say their prices were greater than others, but they were professional enough to take care of our projects.</p>\n                </div>\n                <div class=\"customer-items\">\n                    <div class=\"customer-items-text\">\n                        <div class=\"customer-items-left\">\n                            <h4>WORLDTIMER</h4>\n                            <p>Shopify CRO</p>\n                        </div>\n                        <div class=\"customer-items-right\">\n                            <span style=\"display: flex; width: 130px;height: auto;gap:3px;\">\n                                <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"3 3 18 18\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z\" fill:#000;=\"\"></path></svg>\n                               \n                                <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"3 3 18 18\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z\"></path></svg>\n                               \n                                <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"3 3 18 18\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z\"></path></svg>\n                               \n                                <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"3 3 18 18\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z\"></path></svg>\n                               \n                                \n                                <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"3 3 18 18\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20.83,9.15l-6-.52L12.46,3.08h-.92L9.18,8.63l-6,.52L2.89,10l4.55,4L6.08,19.85l.75.55L12,17.3l5.17,3.1.75-.55L16.56,14l4.55-4Z\"></path></svg>\n                               \n                               </span>\n                        </div>\n                    </div>\n                    <p>We would say their prices were greater than others, but they were professional enough to take care of our projects.</p>\n                </div>\n                \n            </div>\n        </div>\n    </div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "contact_form_LMRGL9": {
+      "type": "contact-form",
+      "custom_css": [
+        "h2 {color: #fff;}"
+      ],
+      "settings": {
+        "sub-heading": "Let's make your website perfect",
+        "content": "<p>Our team will perform a free audit of your website for conversion rate optimization and for all possible things where your website needs improvements.</p>",
+        "heading": "<strong>Free Website Audit </strong>",
+        "heading_size": "h0",
+        "image": "shopify://shop_images/Free-Website-Audit_01.png",
+        "background": "#d26d03",
+        "color_scheme": "scheme-1",
+        "padding_top": 40,
+        "padding_bottom": 60
+      }
+    },
+    "our_count_W6Ht8q": {
+      "type": "our-count",
+      "blocks": {
+        "cont_nH6km7": {
+          "type": "cont",
+          "settings": {
+            "number": "200",
+            "title": "<p>Cmpleted Shopify Projects</p>"
+          }
+        },
+        "cont_X4JFDX": {
+          "type": "cont",
+          "settings": {
+            "number": "150",
+            "title": "<p>Gobal Clients</p>"
+          }
+        },
+        "cont_JjAPKV": {
+          "type": "cont",
+          "settings": {
+            "number": "10",
+            "title": "<p>Yars of Expertise</p>"
+          }
+        },
+        "cont_q6XFEW": {
+          "type": "cont",
+          "settings": {
+            "number": "80",
+            "title": "<p>Idustry Best Tech Professionals</p>"
+          }
+        }
+      },
+      "block_order": [
+        "cont_nH6km7",
+        "cont_X4JFDX",
+        "cont_JjAPKV",
+        "cont_q6XFEW"
+      ],
+      "settings": {
+        "heading": "Wy Do Our Clients Choose Us?",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "logo_btVAYT": {
+      "type": "logo",
+      "blocks": {
+        "logo_AeADEy": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Shopify-Development-Company-Official-Shopify-Partners-in-India.png",
+            "imae-link": ""
+          }
+        },
+        "logo_6XiGtk": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Shopify-Development-Company-Official-Shopify-Partners-in-India_1.png",
+            "imae-link": ""
+          }
+        },
+        "logo_Mgqdmg": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Shopify-Development-Company-Official-Shopify-Partners-in-India_2.png",
+            "imae-link": ""
+          }
+        },
+        "logo_4NNHyy": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Shopify-Development-Company-Official-Shopify-Partners-in-India_3.png",
+            "imae-link": ""
+          }
+        },
+        "logo_4BdiAg": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Shopify-Development-Company-Official-Shopify-Partners-in-India_4.png",
+            "imae-link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_AeADEy",
+        "logo_6XiGtk",
+        "logo_Mgqdmg",
+        "logo_4NNHyy",
+        "logo_4BdiAg"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "custom_liquid_zedPMG": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "custom_liquid": "<html lang=\"en\">\n\n<head>\n  <meta Content-Type: text/html; charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n  \n\n  <!-- CSS links-->\n  \n  <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.20/jquery.fancybox.min.css'>\n  <!-- magnific-popup -->\n  <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css\" />\n</head>\n\n<body>\n  <section class=\"portfolio-section\" id=\"portfolio\">\n    <div class=\"container-fluid\">\n      <div class=\"row\">\n        <div class=\"col-lg-12 text-center\">\n          <h2 class=\"h1\">Project Gallery</h2>\n         \n        </div>\n      </div>\n      <div class=\"portfolio-menu mt-2 mb-4\">\n        <nav class=\"controls\">\n          <button type=\"button\" class=\"control outline\" data-filter=\"all\">All</button>\n          <button type=\"button\" class=\"control outline\" data-filter=\".web\">Web Design</button>\n          <button type=\"button\" class=\"control outline\" data-filter=\".dev\">Development</button>\n          <button type=\"button\" class=\"control outline\" data-filter=\".wp\">WordPress</button>\n        </nav>\n      </div>\n      <ul class=\"row portfolio-item\">\n        <li class=\"mix dev col-xl-3 col-md-4 col-12 col-sm-6 pd\">\n          <img src=\"https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80\" itemprop=\"thumbnail\" alt=\"Image description\" />\n         <p>Project Name</p>\n        </li>\n        <li class=\"mix web col-xl-3 col-md-4 col-12 col-sm-6 pd\">\n          <img src=\"https://images.unsplash.com/photo-1562813733-b31f71025d54?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80\" itemprop=\"thumbnail\" alt=\"Image description\" />\n         <p>Project Name</p>\n        </li>\n        <li class=\"mix wp col-xl-3 col-md-4 col-12 col-sm-6 pd\">\n          <img src=\"https://images.unsplash.com/photo-1520085601670-ee14aa5fa3e8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80\" itemprop=\"thumbnail\" alt=\"Image description\" />\n         <p>Project Name</p>\n        </li>\n        <li class=\"mix dev col-xl-3 col-md-4 col-12 col-sm-6 pd \">\n          <img src=\"https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80\" itemprop=\"thumbnail\" alt=\"Image description\" />\n          <p>Project Name</p>\n        </li>\n        <li class=\"mix web col-xl-3 col-md-4 col-12 col-sm-6 pd \">\n          <img src=\"https://images.unsplash.com/photo-1534665482403-a909d0d97c67?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80\" itemprop=\"thumbnail\" alt=\"Image description\" />\n         <p>Project Name</p>\n        </li>\n        <li class=\"mix wp col-xl-3 col-md-4 col-12 col-sm-6 pd \">\n          <img src=\"https://images.unsplash.com/photo-1581472723648-909f4851d4ae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80\" itemprop=\"thumbnail\" alt=\"Image description\" />\n          <p>Project Name</p>\n        </li>\n        <li class=\"mix dev col-xl-3 col-md-4 col-12 col-sm-6 pd\">\n          <img src=\"https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80\" itemprop=\"thumbnail\" alt=\"Image description\" />\n         <p>Project Name</p>\n        </li>\n        <li class=\"mix web col-xl-3 col-md-4 col-12 col-sm-6 pd\">\n          <img src=\"https://images.unsplash.com/photo-1605379399843-5870eea9b74e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=898&q=80\" itemprop=\"thumbnail\" alt=\"Image description\" />\n         <p>Project Name</p>\n        </li>\n        <li class=\"mix wp col-xl-3 col-md-4 col-12 col-sm-6 pd\">\n          <img src=\"https://images.unsplash.com/photo-1555099962-4199c345e5dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80\" itemprop=\"thumbnail\" alt=\"Image description\" />\n         <p>Project Name</p>\n        </li>\n        <li class=\"mix dev col-xl-3 col-md-4 col-12 col-sm-6 pd\">\n          <img src=\"https://images.unsplash.com/photo-1627398242454-45a1465c2479?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80\" itemprop=\"thumbnail\" alt=\"Image description\" />\n         <p>Project Name</p>\n        </li>\n        <li class=\"mix web col-xl-3 col-md-4 col-12 col-sm-6 pd\">\n          <img src=\"https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80\" itemprop=\"thumbnail\" alt=\"Image description\" />\n          <p>Project Name</p>\n        </li>\n        <li class=\"mix wp col-xl-3 col-md-4 col-12 col-sm-6 pd\">\n          <img src=\"https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80\" itemprop=\"thumbnail\" alt=\"Image description\" />\n          <p>Project Name</p>\n        </li>\n      </ul>\n    </div>\n  </section>\n\n  <!-- JS Links -->\n  <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js\"></script>\n  <script src=\"https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js\" integrity=\"sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo\" crossorigin=\"anonymous\"></script>\n  <script src=\"https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js\" integrity=\"sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI\" crossorigin=\"anonymous\"></script>\n  <!-- Mixitup -->\n  <script src='https://cdnjs.cloudflare.com/ajax/libs/mixitup/3.2.2/mixitup.min.js'></script>\n  <!-- fancybox -->\n  <script src='https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.20/jquery.fancybox.min.js'></script>\n  <!-- Fancybox js -->\n  <script>\n    /*Downloaded from https://www.codeseek.co/ezra_siton/mixitup-fancybox3-JydYqm */\n    // 1. querySelector\n    var containerEl = document.querySelector(\".portfolio-item\");\n    // 2. Passing the configuration object inline\n    //https://www.kunkalabs.com/mixitup/docs/configuration-object/\n    var mixer = mixitup(containerEl, {\n      animation: {\n        effects: \"fade translateZ(-100px)\",\n        effectsIn: \"fade translateY(-100%)\",\n        easing: \"cubic-bezier(0.645, 0.045, 0.355, 1)\"\n      }\n    });\n    // fancybox insilaze & options //\n    $(\"[data-fancybox]\").fancybox({\n      loop: true,\n      hash: true,\n      transitionEffect: \"slide\",\n      /* zoom VS next////////////////////\n      clickContent - i modify the deafult - now when you click on the image you go to the next image - i more like this approach than zoom on desktop (This idea was in the classic/first lightbox) */\n      clickContent: function(current, event) {\n        return current.type === \"image\" ? \"next\" : false;\n      }\n    });\n  </script>\n</body>\n\n</html>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_KQDdAB": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_nKXUhP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/6058575-removebg-preview.png",
+            "image_link": "",
+            "title": "Ecommerce Platform Integration",
+            "text": "<p>Seamlessly integrate popular ecommerce platforms like Shopify  for a robust online store.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_TMtK4B": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/5025832-removebg-preview.png",
+            "image_link": "",
+            "title": "Ecommerce UX/UI Design",
+            "text": "<p>Create visually appealing and user-friendly interfaces to enhance the overall shopping experience for your customers.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_dCjBP6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/shopify_plus_banner_graphic_1.svg",
+            "image_link": "",
+            "title": "Custom Ecommerce Website Development",
+            "text": "<p>Craft fully customized and responsive ecommerce websites tailored to your unique business needs.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_HBEykz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/illustration-20.png",
+            "image_link": "",
+            "title": "<strong>Performance Optimization</strong>",
+            "text": "<p>Optimize website speed and performance for quick loading times, reducing bounce rates and improving user satisfaction.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_nKXUhP",
+        "column_TMtK4B",
+        "column_dCjBP6",
+        "column_HBEykz"
+      ],
+      "custom_css": [
+        ".multicolumn.background-primary .multicolumn-card {background: rgb(252 138 3) linear-gradient( rgba(var(--color-foreground), 0.04), rgba(var(--color-foreground), 0.04) ); border-radius: 10px; color: #fff;}",
+        "h3.inline-richtext {color: #fff;}",
+        "a.button.button--primary {color: #fff; background-color: #f28503; border-radius: 10px;}"
+      ],
+      "settings": {
+        "title": "Our Digital solutions",
+        "custom-class": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Contact Us",
+        "button_link": "#",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_kKhGg7": {
+      "type": "rich-text",
+      "blocks": {
+        "text_8jT7FM": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>Latest Projects</h4>"
+          }
+        },
+        "heading_aaMUnV": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our latest and completed project",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "text_8jT7FM",
+        "heading_aaMUnV"
+      ],
+      "custom_css": [
+        "h4 {color: #f28503; text-transform: uppercase;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_XG3Uc9": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_TmY8PH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/shopify_app_02.jpg",
+            "image_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qfGxfc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Web_1920_19.jpg",
+            "image_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hRiejb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Web_1920_17.jpg",
+            "image_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qXVj9j": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Web_1920_16.jpg",
+            "image_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_k4NFhp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Web_1920_9.jpg",
+            "image_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_xxJUDm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Web_1920_4.jpg",
+            "image_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_TmY8PH",
+        "column_qfGxfc",
+        "column_hRiejb",
+        "column_qXVj9j",
+        "column_k4NFhp",
+        "column_xxJUDm"
+      ],
+      "custom_css": [
+        "a.button.button--primary {color: #fff; background-color: #f28503; border-radius: 10px;}"
+      ],
+      "settings": {
+        "title": "",
+        "custom-class": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "More Projects",
+        "button_link": "#",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "slideshow_rftBFf": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_iKMmwP": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/social-media-instagram-icons-laptop-screen-3d-render_351527-297.jpg",
+            "heading": "Welcome to WebToMania",
+            "heading_size": "h1",
+            "subheading": "Your Gateway to Exceptional <strong>E-commerce</strong> Solutions! We don't just build websites; we launch businesses into the digital stratosphere. We specialize in creating robust and user-friendly online platforms that seamlessly blend aesthetics with functionality.",
+            "button_label": "Contact Us",
+            "link": "#",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-2",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_mtypTh": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/social-media-instagram-icons-laptop-screen-3d-render_351527-297.jpg",
+            "heading": "Welcome to WebToMania",
+            "heading_size": "h1",
+            "subheading": "Your Gateway to Exceptional <strong>E-commerce</strong> Solutions! We don't just build websites; we launch businesses into the digital stratosphere. We specialize in creating robust and user-friendly online platforms that seamlessly blend aesthetics with functionality.",
+            "button_label": "Contact Us",
+            "link": "#",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-2",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_iKMmwP",
+        "slide_mtypTh"
+      ],
+      "custom_css": [
+        "a.button.button--primary {color: #fff; background-color: #f28503; border-radius: 10px;}",
+        "h2{color:#fff;}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "custom_liquid_z6LV4W": {
+      "type": "custom-liquid",
+      "custom_css": [],
+      "settings": {
+        "custom_liquid": "<style>\n\n\n.card-section {\n  display: flex;\n  gap: 20px;\n  perspective: 1000px; /* Enable 3D effect */\n justify-content: center;\n}\n\n.card {\n  width: 25%;\n  height: auto;\n  background: #fc8a03;\n  border-radius: 10px;\n  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);\n  transform-style: preserve-3d;\n  transform: rotateY(0deg);\n  transition: transform 0.6s;\n}\n\n.card:hover {\n  transform: rotateY(15deg) rotateX(-10deg) scale(1.05);\n}\n\n.card-content {\n  padding: 20px;\n  text-align: left;\n  transform: translateZ(30px); /* Bring content closer for the 3D look */\n}\n\nh3 {\n  margin: 0;\n  color: #fff;\n}\n\np{color: #fff;     line-height: 1.4;}\n\n</style>\n\n<h2 class=\"title inline-richtext h1\" style=\"text-align:center;\">\n          Our Digital solutions\n        </h2>\n<div class=\"card-section page-width\">\n \n  <div class=\"card\">\n    <div class=\"card-content\">\n\n      <h3>Ecommerce Platform Integration</h3>\n      <p>Seamlessly integrate popular ecommerce platforms like Shopify for a robust online store..</p>\n    </div>\n  </div>\n  <div class=\"card\">\n    <div class=\"card-content\">\n      <h3>Ecommerce UX/UI Design</h3>\n      <p>Create visually appealing and user-friendly interfaces to enhance the overall shopping experience for your customers..</p>\n    </div>\n  </div>\n  <div class=\"card\">\n    <div class=\"card-content\">\n      <h3>Custom Ecommerce Website Development</h3>\n      <p>Craft fully customized and responsive ecommerce websites tailored to your unique business needs.</p>\n    </div>\n  </div>\n  <div class=\"card\">\n    <div class=\"card-content\">\n      <h3>Performance Optimization</h3>\n      <p>Optimize website speed and performance for quick loading times, reducing bounce rates and improving user satisfaction.</p>\n    </div>\n  </div>\n</div>\n\n\n<script>\n\ndocument.querySelectorAll('.card').forEach(card => {\n  card.addEventListener('mouseenter', () => {\n    card.style.transition = 'transform 0.3s ease';\n  });\n\n  card.addEventListener('mouseleave', () => {\n    card.style.transition = 'transform 0.6s ease';\n  });\n});\n\n\n</script>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "image_with_text_9MVnC9",
+    "content_animation_jJUiHt",
+    "image_with_text_gX4FF6",
+    "logo_slider_HVpYxV",
+    "rich_text_aHgbJ8",
+    "multicolumn_D3cRFk",
+    "rich_text_84j3rN",
+    "image_with_text_RjFKqa",
+    "review_Nzyimz",
+    "custom_liquid_VeVCh8",
+    "contact_form_LMRGL9",
+    "our_count_W6Ht8q",
+    "logo_btVAYT",
+    "custom_liquid_zedPMG",
+    "multicolumn_KQDdAB",
+    "rich_text_kKhGg7",
+    "multicolumn_XG3Uc9",
+    "slideshow_rftBFf",
+    "custom_liquid_z6LV4W"
+  ]
+}
