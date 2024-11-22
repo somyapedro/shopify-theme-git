@@ -994,7 +994,10 @@
     },
     "countdown_timer_DDiQEN": {
       "type": "Countdown-timer",
-      "settings": {}
+      "settings": {
+        "date": "07",
+        "month": "12"
+      }
     }
   },
   "order": [
