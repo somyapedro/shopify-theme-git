@@ -277,6 +277,9 @@
         "column_cwF3p7",
         "column_bdihH8"
       ],
+      "custom_css": [
+        "*{color:#000;}"
+      ],
       "settings": {
         "title": "",
         "custom-class": "multi_x",
@@ -861,7 +864,7 @@
       ],
       "custom_css": [
         "a.button.button--primary {color: #fff; background-color: #f28503; border-radius: 10px;}",
-        "h2{color:#fff;}"
+        "h2 {color: #fff;}"
       ],
       "settings": {
         "layout": "full_bleed",
