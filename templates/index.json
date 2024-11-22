@@ -983,6 +983,10 @@
         "table_right_iUYENh"
       ],
       "settings": {}
+    },
+    "marquee_ikkbJP": {
+      "type": "marquee",
+      "settings": {}
     }
   },
   "order": [
@@ -1005,6 +1009,7 @@
     "multicolumn_XG3Uc9",
     "slideshow_rftBFf",
     "custom_liquid_z6LV4W",
-    "compare_table_9NXfkQ"
+    "compare_table_9NXfkQ",
+    "marquee_ikkbJP"
   ]
 }
