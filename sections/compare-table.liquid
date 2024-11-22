@@ -1,13 +1,108 @@
 
-
-
-
-
-
-
-
-
 <!--Start comparison-section-2  -->
+
+{% style %}
+ 
+/* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=table-secand-part=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=--=-=--= */
+
+.table-secand-part {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr; padding:50px 0;
+}
+.table-secand-part ul{margin:0!important;}
+
+
+.table-secand-part li {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;  margin:0; color:#8b5a51; 
+  font-size:22px; font-weight:bold;
+}
+
+.table-secand-part li:nth-child(1) {
+   border-bottom: dashed 1px #8c5c51; border-right: dashed 1px #8c5c51; 
+}
+
+.table-secand-part li:nth-child(2),
+.table-secand-part li:nth-child(3),
+.table-secand-part li:nth-child(4),
+.table-secand-part li:nth-child(5),
+.table-secand-part li:nth-child(6) {
+   border-bottom: dashed 1px #8c5c51; border-right: dashed 1px #8c5c51; 
+}
+
+
+.table-secand-part li:first-child{
+  border-top:none;
+}
+.table-secand-part li:last-child{
+  border-bottom:none;
+}
+
+.table-secand-part ul li:first-child img{
+  max-width:120px;  mix-blend-mode: multiply;
+    filter: contrast(1);
+}
+
+.table-secand-part ul li img{
+  max-width:60px;  mix-blend-mode: multiply;
+    filter: contrast(1);
+}
+.table-secand-part .image-block {
+    margin: auto;
+}
+
+.table-secand-part ul:first-child li{
+  border-left:none;
+}
+.table-secand-part ul:last-child li{
+  border-right:none;
+}
+.table-secand-part ul li:first-child{
+  height:180px;
+}
+
+
+.table-secand-part ul li{
+  height:120px;
+}
+
+.table-secand-part ul:nth-child(2) li:first-child {
+   border-right:none;
+}
+.table-secand-part ul:nth-child(4) li:first-child {
+   border-left:none;
+}
+.table-secand-part ul:nth-child(2) li:last-child {
+   border-right:none;
+}
+.table-secand-part ul:nth-child(4) li:last-child {
+   border-left:none;
+}
+
+
+
+
+
+.table-secand-part ul:nth-child(3) {
+    background-color: #fec8006b;
+    border-radius: 20px;
+}
+.table-secand-part ul:nth-child(3) li:first-child{
+    border-top: dashed 1px #8c5c51; 
+    border-radius: 20px 20px 0px 0 ; border-left: dashed 1px #8c5c51; 
+}
+
+.table-secand-part ul:nth-child(3) li:last-child{
+    border-bottom: dashed 1px #8c5c51;
+    border-radius: 0px 0 20px 20px; border-left: dashed 1px #8c5c51; 
+}
+
+
+{% endstyle %}
+
 <div class="comparison-section-table">
  <div class="page-width">
 <div class="table-secand-part">
