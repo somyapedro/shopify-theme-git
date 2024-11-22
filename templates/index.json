@@ -995,8 +995,18 @@
     "countdown_timer_DDiQEN": {
       "type": "Countdown-timer",
       "settings": {
-        "date": "07",
-        "month": "12"
+        "countdown_enable": true,
+        "year": "2024",
+        "month": "11",
+        "day": "29",
+        "hour": "16",
+        "minute": "18",
+        "hide_timer": false,
+        "text": "",
+        "title": "",
+        "countdown-timer": "",
+        "background": "",
+        "title-color": ""
       }
     }
   },
