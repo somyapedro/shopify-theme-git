@@ -4482,3 +4482,10 @@ html {
     align-items: center;
     gap: 5px;
 }
+
+.timer-sale {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
