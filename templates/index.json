@@ -897,7 +897,7 @@
             "title": "",
             "text": "",
             "link_label": "COUNTDOWN TIMER",
-            "link": ""
+            "link": "shopify://pages/countdown-timer"
           }
         },
         "column_hcEXT7": {
@@ -906,8 +906,8 @@
             "image_link": "",
             "title": "",
             "text": "",
-            "link_label": "TABLE",
-            "link": ""
+            "link_label": "COMPARE TABLE",
+            "link": "shopify://pages/compare-table"
           }
         },
         "column_A44HXh": {
@@ -917,7 +917,7 @@
             "title": "",
             "text": "",
             "link_label": "MARQUEE",
-            "link": ""
+            "link": "shopify://pages/marquee"
           }
         }
       },
