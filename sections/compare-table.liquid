@@ -1,6 +1,282 @@
+
+
+
+
+
+
+
+
+
+<!--Start comparison-section-2  -->
+<div class="comparison-section-table">
+ <div class="page-width">
+<div class="table-secand-part">
+{% for block in section.blocks %}
+  
+{% if block.type == 'table-left' %}
+<ul>
+<li><div class="image-block"></div><div class="text-block"></div></li>
+{% if block.settings.title1 != blank %}<li>{{ block.settings.title1 }}</li>{% endif %}    
+{% if block.settings.title2 != blank %}<li>{{ block.settings.title2 }}</li>{% endif %}    
+{% if block.settings.title3 != blank %}<li>{{ block.settings.title3 }}</li>{% endif %}  
+{% if block.settings.title4 != blank %}<li>{{ block.settings.title4 }}</li>{% endif %}    
+{% if block.settings.title5 != blank %}<li>{{ block.settings.title5 }}</li>{% endif %}    
+{% if block.settings.title6 != blank %}<li>{{ block.settings.title6 }}</li>{% endif %}
+{% if block.settings.title7 != blank %}<li>{{ block.settings.title7 }}</li>{% endif %}  
+  </ul>
+
+ 
+{% endif %}
+
+{% if block.type == 'table-right' %}
+<ul>
+
+{% if block.settings.image1 != blank or block.settings.title1 != blank %}
+<li>
+    {% if block.settings.image1 != blank %}
+    <div class="image-block"><img src="{{ block.settings.image1 | image_url: width: auto }}" /></div>
+    {% endif %}
+    {% if block.settings.title1 != blank %}
+    <div class="text-block">{{ block.settings.title1 }}</div>
+    {% endif %}
+</li>
+{% endif %}
+{% if block.settings.image2 != blank or block.settings.title2 != blank %}
+<li>
+    {% if block.settings.image2 != blank %}
+    <div class="image-block"><img src="{{ block.settings.image2 | image_url: width: auto }}" /></div>
+    {% endif %}
+    {% if block.settings.title2 != blank %}
+    <div class="text-block">{{ block.settings.title2 }}</div>
+    {% endif %}
+</li>
+{% endif %}
+{% if block.settings.image3 != blank or block.settings.title3 != blank %}
+<li>
+    {% if block.settings.image3 != blank %}
+    <div class="image-block"><img src="{{ block.settings.image3 | image_url: width: auto }}" /></div>
+    {% endif %}
+    {% if block.settings.title3 != blank %}
+    <div class="text-block">{{ block.settings.title3 }}</div>
+    {% endif %}
+</li>
+{% endif %} 
+{% if block.settings.image4 != blank or block.settings.title4 != blank %}
+<li>
+    {% if block.settings.image4 != blank %}
+    <div class="image-block"><img src="{{ block.settings.image4 | image_url: width: auto }}" /></div>
+    {% endif %}
+    {% if block.settings.title4 != blank %}
+    <div class="text-block">{{ block.settings.title4 }}</div>
+    {% endif %}
+</li>
+{% endif %}
+{% if block.settings.image5 != blank or block.settings.title5 != blank %}
+<li>
+    {% if block.settings.image5 != blank %}
+    <div class="image-block"><img src="{{ block.settings.image5 | image_url: width: auto }}" /></div>
+    {% endif %}
+    {% if block.settings.title5 != blank %}
+    <div class="text-block">{{ block.settings.title5 }}</div>
+    {% endif %}
+</li>
+{% endif %}
+{% if block.settings.image6 != blank or block.settings.title6 != blank %}
+<li>
+    {% if block.settings.image6 != blank %}
+    <div class="image-block"><img src="{{ block.settings.image6 | image_url: width: auto }}" /></div>
+    {% endif %}
+    {% if block.settings.title6 != blank %}
+    <div class="text-block">{{ block.settings.title6 }}</div>
+    {% endif %}
+</li>
+{% endif %}
+{% if block.settings.image7 != blank or block.settings.title7 != blank %}
+<li>
+    {% if block.settings.image7 != blank %}
+    <div class="image-block"><img src="{{ block.settings.image7 | image_url: width: auto }}" /></div>
+    {% endif %}
+    {% if block.settings.title7 != blank %}
+    <div class="text-block">{{ block.settings.title7 }}</div>
+    {% endif %}
+</li>
+{% endif %}
+
+
+  
+</ul>  
+{% endif %} 
+  
+ 
+{% endfor %}
+</div>
+
+
+
+
+
+
+</div>
+</div>
+<!--End comparison-section-2  -->
 {% schema %}
   {
-    "name": "Section name",
-    "settings": []
+    "name": "Comparison Section 2",
+    "settings": [
+      
+    ],
+    "blocks": [
+      {
+        "type": "table-left",
+        "name":"Table Left",
+        "settings": [
+          {
+            "type": "text",
+            "id":"title1",
+            "label":"Title 1"
+          },
+          {
+            "type": "text",
+            "id":"title2",
+            "label":"Title 2"
+          },
+          {
+            "type": "text",
+            "id":"title3",
+            "label":"Title 3"
+          },
+          {
+            "type": "text",
+            "id":"title4",
+            "label":"Title 4"
+          },
+          {
+            "type": "text",
+            "id":"title5",
+            "label":"Title 5"
+          },
+          {
+            "type": "text",
+            "id":"title6",
+            "label":"Title 6"
+          },
+          {
+            "type": "text",
+            "id":"title7",
+            "label":"Title 7"
+          }
+        ]
+      },
+      {
+        "type": "table-right",
+        "name":"Table Right",
+        "settings": [
+          {
+            "type": "header",
+            "content": "Table 1"
+          },
+          {
+            "type": "text",
+            "id":"title1",
+            "label":"Title 1"
+          },
+          {
+            "type": "image_picker",
+            "id":"image1",
+            "label":"Image 1"
+          },
+          {
+            "type": "header",
+            "content": "Table 2"
+          },
+          {
+            "type": "text",
+            "id":"title2",
+            "label":"Title 2"
+          },
+          {
+            "type": "image_picker",
+            "id":"image2",
+            "label":"Image 2"
+          },
+          {
+            "type": "header",
+            "content": "Table 3"
+          },
+          {
+            "type": "text",
+            "id":"title3",
+            "label":"Title 3"
+          },
+          {
+            "type": "image_picker",
+            "id":"image3",
+            "label":"Image 3"
+          },
+          {
+            "type": "header",
+            "content": "Table 4"
+          },
+          {
+            "type": "text",
+            "id":"title4",
+            "label":"Title 4"
+          },
+          {
+            "type": "image_picker",
+            "id":"image4",
+            "label":"Image 4"
+          },
+          {
+            "type": "header",
+            "content": "Table 5"
+          },
+          {
+            "type": "text",
+            "id":"title5",
+            "label":"Title 5"
+          },
+          {
+            "type": "image_picker",
+            "id":"image5",
+            "label":"Image 5"
+          },
+          {
+            "type": "header",
+            "content": "Table 6"
+          },
+          {
+            "type": "text",
+            "id":"title6",
+            "label":"Title 6"
+          },
+          {
+            "type": "image_picker",
+            "id":"image6",
+            "label":"Image 6"
+          },
+          {
+            "type": "header",
+            "content": "Table 7"
+          },
+          {
+            "type": "text",
+            "id":"title7",
+            "label":"Title 7"
+          },
+          {
+            "type": "image_picker",
+            "id":"image7",
+            "label":"Image 7"
+          }
+         
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Comparison Section 2"
+      }
+    ]
   }
 {% endschema %}
