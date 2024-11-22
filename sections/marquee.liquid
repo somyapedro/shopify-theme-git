@@ -31,7 +31,7 @@
 
 
 
-<div class="marquee">
+<div class="marquee" style="background-color:{{ section.settings.background }};color:{{ section.settings.text-color }};">
   <div>
 
     {% if section.settings.title1 != blank %}
@@ -62,6 +62,16 @@
         "id": "title2",
         "label": "Title 2"
         
+      },
+      {
+        "type": "color",
+        "id":"text-color",
+        "label": "Color"
+      },
+      {
+        "type": "color",
+        "id":"background",
+        "label": "Background"
       }
       
     ],
