@@ -1008,6 +1008,74 @@
         "background": "#000000",
         "title-color": "#d26d03"
       }
+    },
+    "multicolumn_fUnVe6": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_8yziFM": {
+          "type": "column",
+          "settings": {
+            "image_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "COUNTDOWN TIMER",
+            "link": ""
+          }
+        },
+        "column_hcEXT7": {
+          "type": "column",
+          "settings": {
+            "image_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "COUNTDOWN TIMER",
+            "link": ""
+          }
+        },
+        "column_A44HXh": {
+          "type": "column",
+          "settings": {
+            "image_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "COUNTDOWN TIMER",
+            "link": ""
+          }
+        },
+        "column_maJd8m": {
+          "type": "column",
+          "settings": {
+            "image_link": "",
+            "title": "",
+            "text": "",
+            "link_label": "COUNTDOWN TIMER",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_8yziFM",
+        "column_hcEXT7",
+        "column_A44HXh",
+        "column_maJd8m"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "custom-class": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-5",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -1032,6 +1100,7 @@
     "custom_liquid_z6LV4W",
     "marquee_ikkbJP",
     "compare_table_9NXfkQ",
-    "countdown_timer_DDiQEN"
+    "countdown_timer_DDiQEN",
+    "multicolumn_fUnVe6"
   ]
 }
