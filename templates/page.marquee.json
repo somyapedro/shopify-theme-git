@@ -15,9 +15,17 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "marquee_Q7aUDJ": {
+      "type": "marquee",
+      "settings": {
+        "title1": "++++ this is a running text aka marquee using html & css + text length is limited to the width",
+        "title2": "++++ this is a running text aka marquee using html & css + text length is limited to the width"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "marquee_Q7aUDJ"
   ]
 }
