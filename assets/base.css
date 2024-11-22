@@ -4470,3 +4470,8 @@ html {
 }
 
 
+.countdown__display.countdown__display--visible {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
