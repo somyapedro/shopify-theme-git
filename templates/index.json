@@ -1002,7 +1002,7 @@
         "hour": "15",
         "minute": "17",
         "hide_timer": true,
-        "text": "",
+        "text": "<p>Sell Now</p>",
         "title": "<p>Time’s running out on our biggest sale!</p>",
         "countdown-timer": "rgba(0,0,0,0)",
         "background": "rgba(0,0,0,0)",
