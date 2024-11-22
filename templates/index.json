@@ -1004,9 +1004,9 @@
         "hide_timer": false,
         "text": "",
         "title": "<p>Time’s running out on our biggest sale!</p>",
-        "countdown-timer": "",
-        "background": "",
-        "title-color": ""
+        "countdown-timer": "#ffffff",
+        "background": "#000000",
+        "title-color": "#ffffff"
       }
     }
   },
