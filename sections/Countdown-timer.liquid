@@ -71,6 +71,19 @@ li span {
     font-size: calc(3.375rem * var(--smaller));
   }
 }
+@media all and (max-width: 768px) {
+.timer-sale {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0;
+    flex-direction: column;
+}
+
+}
+
+
+  
 {% endstyle %}
 <div class="countdown-timer-main" style="background-color:{{ section.settings.background }};">
 <div class="page-width">
