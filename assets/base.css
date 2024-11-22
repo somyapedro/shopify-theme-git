@@ -4470,22 +4470,3 @@ html {
 }
 
 
-.countdown__display.countdown__display--visible {
-    display: flex;
-    justify-content: center;
-    gap:5px;
-}
-
-
-.countdown__display-block {
-    display: flex;
-    align-items: center;
-    gap: 5px;
-}
-
-.timer-sale {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 20px;
-}
