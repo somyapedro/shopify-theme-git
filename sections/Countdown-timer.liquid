@@ -50,10 +50,10 @@ li span {
   }
 }
 {% endstyle %}
-<div class="countdown-timer-main">
+<div class="countdown-timer-main" style="background-color:{{ section.settings.background }};">
 <div class="page-width">
 {% if section.settings.countdown_enable %}
-<div class=" timer-sale" style="background-color:{{ section.settings.background }};">
+<div class=" timer-sale" >
             <countdown-timer
               data-year="{{ section.settings.year }}"
               data-month="{{ section.settings.month }}"
