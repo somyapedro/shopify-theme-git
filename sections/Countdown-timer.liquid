@@ -50,7 +50,8 @@ li span {
   }
 }
 {% endstyle %}
-
+<div class="countdown-timer-main">
+<div class="page-width">
 {% if section.settings.countdown_enable %}
 <div class=" timer-sale" style="background-color:{{ section.settings.background }};">
             <countdown-timer
@@ -89,6 +90,8 @@ li span {
   </div>
           </div>
 {% endif %}
+</div>
+</div>
 <script>
   /*============================================================================
     CountdownTimer
