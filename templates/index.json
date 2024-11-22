@@ -988,6 +988,10 @@
         "table_right_iUYENh"
       ],
       "settings": {}
+    },
+    "countdown_timer_DDiQEN": {
+      "type": "Countdown-timer",
+      "settings": {}
     }
   },
   "order": [
@@ -1011,6 +1015,7 @@
     "slideshow_rftBFf",
     "custom_liquid_z6LV4W",
     "marquee_ikkbJP",
-    "compare_table_9NXfkQ"
+    "compare_table_9NXfkQ",
+    "countdown_timer_DDiQEN"
   ]
 }
