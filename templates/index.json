@@ -1003,10 +1003,10 @@
         "minute": "17",
         "hide_timer": true,
         "text": "<p>Sell Now</p>",
-        "title": "<p>Time’s running out on our biggest sale!</p>",
+        "title": "Time’s running out on our biggest sale!",
         "countdown-timer": "#ffffff",
         "background": "#000000",
-        "title-color": "#ffffff"
+        "title-color": "#d26d03"
       }
     }
   },
