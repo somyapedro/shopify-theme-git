@@ -20,7 +20,9 @@
       "type": "marquee",
       "settings": {
         "title1": "++++ this is a running text aka marquee using html & css + text length is limited to the width",
-        "title2": "++++ this is a running text aka marquee using html & css + text length is limited to the width"
+        "title2": "++++ this is a running text aka marquee using html & css + text length is limited to the width",
+        "text-color": "#ffffff",
+        "background": "#d26d03"
       }
     }
   },
