@@ -13,6 +13,26 @@
   "sections": {
     "footer": {
       "type": "footer",
+      "blocks": {
+        "text_jmXgYK": {
+          "type": "text",
+          "settings": {
+            "heading": "Address",
+            "subtext": "<p>Corporate Office AddressR-Tech Capital Galleria<br/>plot no. 3 (a) riico indl. area kanakpura,<br/>sirsi rd, vaishali nagar,<br/>jaipur, rajasthan-302034</p><p>Phone numbers :<br/>call us: <a href=\"tel:+91-94600-02607\">+91-94600-02607</a>, <a href=\"tel:+919773386294\">+919773386294</a><br/>for sales inquiry :<br/>email us: <a href=\"https://mail.google.com/mail/u/0/?hl=en\" target=\"_blank\" title=\"https://mail.google.com/mail/u/0/?hl=en\">somyaped@gmail.com</a></p>"
+          }
+        },
+        "link_list_GAULgp": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "text_jmXgYK",
+        "link_list_GAULgp"
+      ],
       "settings": {
         "color_scheme": "scheme-4",
         "newsletter_enable": true,
