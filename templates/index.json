@@ -242,33 +242,33 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/3.png",
-            "image_link": "",
+            "image_link": "shopify://policies/refund-policy",
             "title": "<strong>Shopify Expertise</strong>",
             "text": "<p>Shopify Store Development</p><p>Shopify Apps Development</p><p>Shopify Migration</p><p>Dropshipping Store Development</p>",
             "link_label": "Read More",
-            "link": "#"
+            "link": "shopify://collections/all"
           }
         },
         "column_cwF3p7": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/1.png",
-            "image_link": "",
+            "image_link": "shopify://policies/terms-of-service",
             "title": "<strong>eCommerce</strong>",
             "text": "<p>PrestaShop Solution</p><p>Magento Solution</p><p>CMS based Solutions</p><p>WooCommerce Solution</p><p>Ecommerce Maintenance & Support</p>",
             "link_label": "Read More",
-            "link": "#"
+            "link": "shopify://products/you-will-get-an-awesome-shopify-store-good-design-and-customer-friendly"
           }
         },
         "column_bdihH8": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/2.png",
-            "image_link": "",
+            "image_link": "shopify://policies/refund-policy",
             "title": "<strong>Product Development</strong>",
             "text": "<p>Saas Web applications</p><p>Business Applications</p><p>Mobile Apps</p><p>Marketing & SEO</p>",
             "link_label": "Read More",
-            "link": "#"
+            "link": "shopify://products/you-will-get-a-mesmerized-fully-functional-shopify-website-to-grow-your-sales"
           }
         }
       },
@@ -352,7 +352,7 @@
             "button_label": "Get Started",
             "button_link": "#",
             "button_label2": "",
-            "button_link1": "",
+            "button_link1": "shopify://products/you-will-get-a-mesmerized-fully-functional-shopify-website-to-grow-your-sales",
             "button_style_secondary": false
           }
         }
@@ -810,7 +810,7 @@
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "More Projects",
-        "button_link": "#",
+        "button_link": "shopify://collections",
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
