@@ -3,11 +3,13 @@
 {% for video in product.metafields.custom.video.value %}
   {% for source in video.sources %}
     {% if source.format == "mp4" %}
-      {{ source.url }}<br>
+       <video poster="" playsinline="" controls="" src="{{ source.url }}" width="100%"></video>
       {% break %}
     {% endif %}
   {% endfor %}
 {% endfor %}
+
+
 
 
 <product-info
