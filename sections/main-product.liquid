@@ -3,7 +3,7 @@
 {{ product.metafields.custom.video }}
 
 {% for video in product.metafields.custom.video.value %}
-  {{ video | json }}123<br>
+  {{ video.id }}<br>
 {% endfor %}
 
 
