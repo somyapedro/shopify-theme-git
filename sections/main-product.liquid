@@ -2,6 +2,10 @@
  
 {{ product.metafields.custom.video }}
 
+{% for video in product.metafields.custom.video %}
+  {{ video }}<br>
+{% endfor %}
+
 
 {% if product.metafields.custom.video %}
   {% for video in product.metafields.custom.video.value %}
