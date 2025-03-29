@@ -1,5 +1,10 @@
 
-{{ product.metafields.custom.video | img_tag }}
+{% if product.metafields.custom.video %}
+  <video controls>
+    <source src="{{ product.metafields.custom.video.value }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+{% endif %}
 
 <product-info
   id="MainProduct-{{ section.id }}"
