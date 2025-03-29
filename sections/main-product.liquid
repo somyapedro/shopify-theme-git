@@ -1,20 +1,13 @@
 
  
-{{ product.metafields.custom.video }}
-
 {% for video in product.metafields.custom.video.value %}
-  {{ video.id }}<br>
-{% endfor %}
-
-
-{% if product.metafields.custom.video %}
-  {% for video in product.metafields.custom.video.value %}
-    <video controls>
-      <source src="{{ video }}" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
+  {% for source in video.sources %}
+    {% if source.format == "mp4" %}
+      {{ source.url }}<br>
+      {% break %}
+    {% endif %}
   {% endfor %}
-{% endif %}
+{% endfor %}
 
 
 <product-info
