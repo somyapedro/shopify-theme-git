@@ -4,7 +4,7 @@
 
 
 {% if product.metafields.custom.video %}
-  {% for video in product.metafields.custom.video.value %}
+  {% for video in product.metafields.custom.video %}
     <video controls>
       <source src="{{ video }}" type="video/mp4">
       Your browser does not support the video tag.
